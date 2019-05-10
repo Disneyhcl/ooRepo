@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<flow id="fcb26110-2aa6-4e08-b3ff-88050ffb96de">
+<flow id="20c1ce89-cead-4c3e-97ce-c061d45e9d0a">
   <descriptionCdata><![CDATA[]]></descriptionCdata>
   <annotation></annotation>
-  <name>Http Client Get</name>
+  <name>Test</name>
   <categories/>
   <inputs/>
   <possibleResponses/>
   <availableResultExpressions/>
-  <resultExpression id="5393f066-39bf-4819-8567-0d1e599e82f2">
+  <resultExpression id="4ef5aa42-5277-483b-b491-b219dec6d0b3">
     <annotation></annotation>
     <name>FailureMessage</name>
     <fieldName>FailureMessage</fieldName>
     <sourceType>RAWRESULT</sourceType>
     <filters/>
   </resultExpression>
-  <iconSpec id="08ffe63b-d422-4717-b01f-8ef28b88b065">
+  <iconSpec id="d6e27f00-3fb5-4bf8-bd9a-4b8d02ba03ef">
     <baseIcon>flow.png</baseIcon>
     <basePath>System</basePath>
     <readOnly>false</readOnly>
